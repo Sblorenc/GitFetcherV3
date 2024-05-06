@@ -30,7 +30,7 @@ Example usage:
 
 bash
 
-curl http://localhost:8080/api/v3/{username}
+curl http://localhost:8080/api/v1/{username}
 
 Replace {username} with the GitHub username you want to retrieve repository information for.
 
